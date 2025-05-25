@@ -29,7 +29,7 @@
     "bitcore-lib-ltc": "^10.8.10",
     "ethers": "6.13.5",
     "info": "0.0.6-beta.0",
-    "web3": "1.4.0",
+    "web3": "4.16.0",
     "xrpl": "2.13.0"
   },
   "devDependencies": {
@@ -39,7 +39,7 @@
     "chai": "5.1.2",
     "mocha": "11.1.0",
     "tslint": "5.14.0",
-    "tsx": "4.19.2",
+    "tsx": "4.19.4",
     "typescript": "5.7.3"
   },
   "gitHead": "e091d99915d099863ad3e78dbe867aa7780191e4"
