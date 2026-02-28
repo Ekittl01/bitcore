@@ -33,7 +33,7 @@
     "mongodb": "^3.6.0",
     "progress": "2.0.0",
     "promptly": "3.0.3",
-    "request": "2.87.0",
+    "request": "2.88.2",
     "request-promise-native": "1.0.5",
     "secp256k1": "3.7.1",
     "source-map-support": "0.5.13"
@@ -51,7 +51,7 @@
     "@types/request-promise-native": "1.0.15",
     "@types/secp256k1": "3.5.0",
     "chai": "5.1.2",
-    "eslint-config-airbnb-base": "12.1.0",
+    "eslint-config-airbnb-base": "15.0.0",
     "eslint-plugin-import": "2.8.0",
     "mocha": "11.1.0",
     "sinon": "19.0.2",
