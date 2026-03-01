@@ -72,7 +72,7 @@
     "@types/sinon": "4.3.3",
     "@types/through2": "2.0.33",
     "@types/winston": "2.4.4",
-    "axios": "0.21.1",
+    "axios": "0.30.3",
     "chai": "4.1.2",
     "eslint": "4.19.1",
     "eslint-config-airbnb-base": "12.1.0",
@@ -85,7 +85,7 @@
     "supertest": "3.0.0",
     "ts-node": "^9.0.0",
     "typescript": "4.9.4",
-    "typescript-eslint-parser": "15.0.0"
+    "typescript-eslint-parser": "21.0.2"
   },
   "dependencies": {
     "abi-decoder": "2.4.0",
